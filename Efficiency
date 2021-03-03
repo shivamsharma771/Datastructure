@@ -1,0 +1,24 @@
+Efficency - which is faster and which approach is slower
+Efficiency of a code is defined by a big o notation 'O(n)'
+
+example: O(1) = O(On+1)
+
+n -> length of an input to your function.
+
+Detail:
+Create an output string and return a output string
+this happend only once that means 2 operations: for this we can add a 2 to our efficiency.
+
+now if number of letters are 4 and we have 3 line of code in for loop that need to run for them
+
+then efficiency:
+
+O(3n+2) : O(3(4)+2) 14
+to calculate the efficiency you need to multiple the time that is use to run 1 line of code with 14
+to get the actual efficiency.
+
+
+
+
+
+
